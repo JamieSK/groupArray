@@ -1,0 +1,15 @@
+{
+  "name": "twiggrouparray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "groupArray.js",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "jklein",
+  "license": "ISC"
+}
